@@ -15,4 +15,3 @@ def register(request):
     return render(request, 'base/register.html',{})
 
 
-    
